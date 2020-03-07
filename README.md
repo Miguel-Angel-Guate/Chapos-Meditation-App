@@ -1,2 +1,2 @@
-# Meditation-app-for-our-bootcamp
+# Chapos Meditation app
 I try learn use Javascript pure and css
