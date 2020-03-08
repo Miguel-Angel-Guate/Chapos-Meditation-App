@@ -96,3 +96,54 @@
             align-items: center;
             margin-top: 90px;
      }
+
+
+
+
+@media all and (min-width: 375px) and (max-width:812px) {
+       .sound-picker{
+             height: 50vh;  
+              
+       }
+       .sound-picker button{
+              
+       }
+       
+       .time-select{
+              
+              height: 25vh;
+
+       }
+       .player-container{
+              height: 50%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin-bottom: 150px;
+       }
+       #vidd{
+              height: 100vh;
+       }
+       .time-select p {
+              font-size: 10px;
+              background: white;
+              color: black;
+            }
+       .time-select button:hover{
+              background: white;
+              color: black;
+
+       }
+       .play{
+              height: 10vh;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              margin-bottom: 120px;
+       }
+       .time-display{
+              font-size: 30px;
+       }
+       
+}
+     
