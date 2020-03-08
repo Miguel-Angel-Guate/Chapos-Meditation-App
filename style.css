@@ -3,6 +3,13 @@
        padding: 0;
        box-sizing: border-box;
 }
+h4{
+       font-family: sans-serif;
+       align-items: center;
+       justify-content: center;
+       font-size: 12px;
+       margin-top: -82px;
+}
 
 .app {
        height: 100vh;
@@ -137,6 +144,7 @@ video {
               justify-content: center;
               margin-bottom: 120px;
        }
+       
        .player-container h3{
               font-size: 15px;
               margin-bottom: 8px;
@@ -144,6 +152,7 @@ video {
 
        #vidd {
               height: 100vh ! important;
+              position: fixed;
        }
 
        .time-select p {
@@ -241,6 +250,7 @@ video {
 
        #vidd {
               height: 100vh ! important;
+              position: fixed;
        }
 
        .time-select p {
@@ -338,6 +348,7 @@ video {
 
        #vidd {
               height: 100vh ! important;
+              background: cover;
        }
 
        .time-select p {
